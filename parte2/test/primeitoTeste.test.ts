@@ -25,6 +25,7 @@ describe("Contém um conjunto de testes, que serão executados um a um", () => {
             nome: "Palmeiras",
             temMundial: false,
             cor: "Verde",
+            temEstadio: true,
         });
     });
 });
